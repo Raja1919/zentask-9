@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: lightgray;
+    font-family: Arial, sans-serif;
+    padding-top: 150px;
+}
+
+
+
+ul li .nav-link{
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    margin-left:20px;
+}
+
+a[class="navbar-brand mx-4 my-3"]{
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+}
+
+.title{
+    color:blue ;
+    
+}
+#raja{
+    padding: 20px;
+}
+#content{
+    color: rgb(255, 0, 166);
+    display: flex;
+    justify-content: center;
+}
